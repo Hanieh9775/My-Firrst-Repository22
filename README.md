@@ -1,4 +1,4 @@
-import 
+import os
 import openai
 from flask import Flask, request, render_template_string, redirect, url_for
 from werkzeug.utils import secure_filename
